@@ -1,2 +1,2 @@
 # helloworld_c
-ESERCIIZI IN C
+ESERCIZI IN C
