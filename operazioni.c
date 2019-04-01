@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main(){
 int a,b,AD,SOT,DIV,MOL,RESTO;
-printf("inserisci i due interi per fare le 4 moltiplicazioni");
+printf("inserisci i due interi per fare le 5 moltiplicazioni");
 printf("inserisci 1° intero");
 scanf(" %d",&a);
 
